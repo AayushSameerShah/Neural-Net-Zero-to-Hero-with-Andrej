@@ -1,0 +1,873 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 341,
+      "versionNonce": 444939826,
+      "isDeleted": false,
+      "id": "Xe8gBKl_NVOJBwtl4QYAl",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 5.91004786991097,
+      "x": 1872.0957837369426,
+      "y": 451.2625780503967,
+      "strokeColor": "#f783ac",
+      "backgroundColor": "#eebefa",
+      "width": 87.78367147763879,
+      "height": 14.699218433546086,
+      "seed": 2135592900,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688460623994,
+      "link": null,
+      "locked": false,
+      "fontSize": 11.75937474683687,
+      "fontFamily": 1,
+      "text": "@ Aayush Shah",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "@ Aayush Shah",
+      "lineHeight": 1.25,
+      "baseline": 9.999999999999998
+    },
+    {
+      "id": "TygVoYOovc6QKzNLSOVsx",
+      "type": "rectangle",
+      "x": 1633.1855993804415,
+      "y": 143.5538787593781,
+      "width": 305.8931821373018,
+      "height": 155.16320833051532,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 306510834,
+      "version": 300,
+      "versionNonce": 1733151218,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "aPyc1fOIX9xP25IdQLYcz",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460560811,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "yPpXjKEJkV0j1eIzI8gf9",
+      "type": "text",
+      "x": 1695.2508827126476,
+      "y": 180.12806358014262,
+      "width": 177.18850708007812,
+      "height": 83.7403574394095,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 99093358,
+      "version": 269,
+      "versionNonce": 1879916398,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460523183,
+      "link": null,
+      "locked": false,
+      "text": "logits",
+      "fontSize": 66.99228595152759,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 58,
+      "containerId": null,
+      "originalText": "logits",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "id": "oT7xJ-aPzwivQqnQOdkgg",
+      "type": "rectangle",
+      "x": 353.08913065368984,
+      "y": -91.40755099825935,
+      "width": 187.3041586275507,
+      "height": 103.07270267669946,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1535412594,
+      "version": 206,
+      "versionNonce": 351158702,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "wCQihRAlY56lykUzEKugZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460546876,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mlDmo6tyQB52hiZvHoUGn",
+      "type": "text",
+      "x": 421.8042657714893,
+      "y": -99.16571141478505,
+      "width": 49.03610265117462,
+      "height": 124.07933742142342,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1554926770,
+      "version": 232,
+      "versionNonce": 317863858,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460542279,
+      "link": null,
+      "locked": false,
+      "text": "h",
+      "fontSize": 99.26346993713877,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 86.99999999999996,
+      "containerId": null,
+      "originalText": "h",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "type": "rectangle",
+      "version": 270,
+      "versionNonce": 241051054,
+      "isDeleted": false,
+      "id": "6dA7Y7hjNTKR5q68u7JbE",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 344.7768159216979,
+      "y": 72.64774100120837,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "width": 187.3041586275507,
+      "height": 103.07270267669946,
+      "seed": 1859117106,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "PN85GFF6xM6wi_EJqZk7z",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460553159,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 344,
+      "versionNonce": 385118578,
+      "isDeleted": false,
+      "id": "ynLE22rpYxE2S1VwCHYhk",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 373.5928403259363,
+      "y": 67.10619784654716,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "width": 131.12246704101562,
+      "height": 124.07933742142346,
+      "seed": 1778977266,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688460542279,
+      "link": null,
+      "locked": false,
+      "fontSize": 99.26346993713877,
+      "fontFamily": 1,
+      "text": "w2",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "w2",
+      "lineHeight": 1.25,
+      "baseline": 87
+    },
+    {
+      "id": "pfikq-xr0wGwHjq1pPKFn",
+      "type": "ellipse",
+      "x": 690.0149544570946,
+      "y": -4.9594777855436405,
+      "width": 99.74777678390274,
+      "height": 99.74777678390274,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 891809650,
+      "version": 98,
+      "versionNonce": 88028338,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "wCQihRAlY56lykUzEKugZ",
+          "type": "arrow"
+        },
+        {
+          "id": "PN85GFF6xM6wi_EJqZk7z",
+          "type": "arrow"
+        },
+        {
+          "id": "uNuw2JEMqawKmNEFmssea",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460555471,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ehpspbT-C_MSNF2PzqaU8",
+      "type": "text",
+      "x": 708.856201182943,
+      "y": -0.5262432618145567,
+      "width": 57.24041534242648,
+      "height": 88.88268306248001,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 74037618,
+      "version": 137,
+      "versionNonce": 525741102,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460536523,
+      "link": null,
+      "locked": false,
+      "text": "@",
+      "fontSize": 71.10614644998404,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 61.99999999999996,
+      "containerId": null,
+      "originalText": "@",
+      "lineHeight": 1.25,
+      "isFrameName": false
+    },
+    {
+      "type": "rectangle",
+      "version": 426,
+      "versionNonce": 1101451246,
+      "isDeleted": false,
+      "id": "ii72Fp9IMbk-BS18bBlDi",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 964.3213406128273,
+      "y": 295.4177758185909,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "width": 187.3041586275507,
+      "height": 103.07270267669946,
+      "seed": 2022508974,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "XJY3IIP3VnU2wjAPsCkV0",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460559179,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 483,
+      "versionNonce": 1510568754,
+      "isDeleted": false,
+      "id": "iY-6sZn8IN1kCpy6ILQuI",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1005.3287599573202,
+      "y": 292.09284992579427,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "width": 121.09719848632812,
+      "height": 124.07933742142346,
+      "seed": 970695662,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688460542279,
+      "link": null,
+      "locked": false,
+      "fontSize": 99.26346993713877,
+      "fontFamily": 1,
+      "text": "b2",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "b2",
+      "lineHeight": 1.25,
+      "baseline": 87
+    },
+    {
+      "type": "ellipse",
+      "version": 176,
+      "versionNonce": 1705812018,
+      "isDeleted": false,
+      "id": "AWd4FEZMFY3XhNXvrFeFL",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1367.191527956701,
+      "y": 149.09542191403932,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "width": 99.74777678390274,
+      "height": 99.74777678390274,
+      "seed": 2065302382,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [
+        {
+          "id": "HT6Dbvl5QL6OzWrnnVTc5",
+          "type": "arrow"
+        },
+        {
+          "id": "XJY3IIP3VnU2wjAPsCkV0",
+          "type": "arrow"
+        },
+        {
+          "id": "aPyc1fOIX9xP25IdQLYcz",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460560811,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 244,
+      "versionNonce": 542930542,
+      "isDeleted": false,
+      "id": "oLcc7jSF0AaaiAZhkEa5m",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1387.1410833134817,
+      "y": 147.9871132831072,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "width": 57.73720357118712,
+      "height": 115.48438966934947,
+      "seed": 1545823662,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688460536523,
+      "link": null,
+      "locked": false,
+      "fontSize": 92.38751173547959,
+      "fontFamily": 1,
+      "text": "+",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "+",
+      "lineHeight": 1.25,
+      "baseline": 80.99999999999997
+    },
+    {
+      "type": "rectangle",
+      "version": 450,
+      "versionNonce": 626368750,
+      "isDeleted": false,
+      "id": "qfirF3IJMH4fAu_-StPdo",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 934.3970075776564,
+      "y": 11.69076629993441,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "width": 244.93620743602764,
+      "height": 103.07270267669946,
+      "seed": 1954829042,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "uNuw2JEMqawKmNEFmssea",
+          "type": "arrow"
+        },
+        {
+          "id": "HT6Dbvl5QL6OzWrnnVTc5",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688460557303,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 530,
+      "versionNonce": 2123906290,
+      "isDeleted": false,
+      "id": "gIRMytHxtbQplhVVHaDZ_",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 955.454871565369,
+      "y": 26.098778502053733,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "width": 208.4757537841797,
+      "height": 71.9888317676075,
+      "seed": 237053106,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1688460542279,
+      "link": null,
+      "locked": false,
+      "fontSize": 57.591065414085996,
+      "fontFamily": 1,
+      "text": "h @ w2",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "h @ w2",
+      "lineHeight": 1.25,
+      "baseline": 50
+    },
+    {
+      "id": "wCQihRAlY56lykUzEKugZ",
+      "type": "arrow",
+      "x": 554.8013014833599,
+      "y": -21.58410724952745,
+      "width": 135.21365297373484,
+      "height": 54.30712291568034,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1109905074,
+      "version": 20,
+      "versionNonce": 693270578,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460546876,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          135.21365297373484,
+          54.30712291568034
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "oT7xJ-aPzwivQqnQOdkgg",
+        "focus": -0.28170377541142305,
+        "gap": 14.40801220211938
+      },
+      "endBinding": {
+        "elementId": "pfikq-xr0wGwHjq1pPKFn",
+        "focus": -0.14586919626132158,
+        "gap": 1.4684416479102964
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "PN85GFF6xM6wi_EJqZk7z",
+      "type": "arrow",
+      "x": 550.3680669596308,
+      "y": 139.12064423564914,
+      "width": 135.21365297373484,
+      "height": 84.23145595085123,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1752736242,
+      "version": 30,
+      "versionNonce": 709022770,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460553159,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          135.21365297373484,
+          -84.23145595085123
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "6dA7Y7hjNTKR5q68u7JbE",
+        "focus": 0.7705812652237611,
+        "gap": 18.28709241038223
+      },
+      "endBinding": {
+        "elementId": "pfikq-xr0wGwHjq1pPKFn",
+        "focus": 0.4059916012200943,
+        "gap": 5.341687210519019
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "uNuw2JEMqawKmNEFmssea",
+      "type": "arrow",
+      "x": 803.0624348121845,
+      "y": 46.02271923733997,
+      "width": 120.80564077161546,
+      "height": 5.541543154661213,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 587038194,
+      "version": 27,
+      "versionNonce": 1493247854,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460555471,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          120.80564077161546,
+          5.541543154661213
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "pfikq-xr0wGwHjq1pPKFn",
+        "focus": -0.0358440615933546,
+        "gap": 13.309424828759987
+      },
+      "endBinding": {
+        "elementId": "qfirF3IJMH4fAu_-StPdo",
+        "focus": 0.09731705181379119,
+        "gap": 10.528931993856474
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "HT6Dbvl5QL6OzWrnnVTc5",
+      "type": "arrow",
+      "x": 1197.6203074240664,
+      "y": 81.48859542717196,
+      "width": 165.13798600890573,
+      "height": 120.80564077161557,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 965085614,
+      "version": 43,
+      "versionNonce": 1023651058,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460557303,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          165.13798600890573,
+          120.80564077161557
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "qfirF3IJMH4fAu_-StPdo",
+        "focus": -0.6002183948936388,
+        "gap": 18.2870924103824
+      },
+      "endBinding": {
+        "elementId": "AWd4FEZMFY3XhNXvrFeFL",
+        "focus": -0.6967122917032855,
+        "gap": 4.534922765538596
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "XJY3IIP3VnU2wjAPsCkV0",
+      "type": "arrow",
+      "x": 1169.91259165076,
+      "y": 350.8075927437094,
+      "width": 189.52077588941506,
+      "height": 129.6721098190735,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 27606706,
+      "version": 54,
+      "versionNonce": 752938482,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460559179,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          189.52077588941506,
+          -129.6721098190735
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ii72Fp9IMbk-BS18bBlDi",
+        "focus": 0.695792574377375,
+        "gap": 18.287092410382115
+      },
+      "endBinding": {
+        "elementId": "AWd4FEZMFY3XhNXvrFeFL",
+        "focus": 0.2857204085730409,
+        "gap": 11.873923378363905
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "aPyc1fOIX9xP25IdQLYcz",
+      "type": "arrow",
+      "x": 1476.914082418994,
+      "y": 203.40254482971977,
+      "width": 141.8635047593284,
+      "height": 5.541543154661326,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1714577330,
+      "version": 29,
+      "versionNonce": 286405614,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688460560811,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          141.8635047593284,
+          5.541543154661326
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "AWd4FEZMFY3XhNXvrFeFL",
+        "focus": 0.041981871471847745,
+        "gap": 10.138746933800128
+      },
+      "endBinding": {
+        "elementId": "TygVoYOovc6QKzNLSOVsx",
+        "focus": 0.0676683937823813,
+        "gap": 14.408012202119153
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
