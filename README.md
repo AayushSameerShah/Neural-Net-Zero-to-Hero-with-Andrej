@@ -15,7 +15,7 @@ It had to be explored in great depth. And that's where I found **Andrej Karpathy
 And this notebook course takes you on the journey to the GPT starting from the very first baby steps.
 
 # 😬 Means what? What does it include anyways?
-The Karpathy's series is fantastic, but I love things to be ***spelled out*** even more, and a cherry on top, if *** visualized ***. I am willing to refer to some *specific* topic in the future, and if I can't find out that, seeking through the video, then I get frustrated.
+The Karpathy's series is fantastic, but I love things to be ***spelled out*** even more, and a cherry on top, if ***visualized***. I am willing to refer to some *specific* topic in the future, and if I can't find out that, seeking through the video, then I get frustrated.
 
 **This notebook course** implements all code and math understanding buildup with **informal explanation** that we understand; the simplest language possible, *you know the bro's language, yo!?* 😆 and also we will keep building one step at a time 🧗
 
