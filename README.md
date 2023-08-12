@@ -30,5 +30,15 @@ I would encourage you to use this course as a material for **practicing** your u
 
 I mean, there's a lot there... just start exploring!!
 
+# 🗺 Where to start?
+Start with the very first lecture `Micrograd`.
+1. **Micrograd**: Our first steps to the neural net, here we will explore the expressions at the atomic level and how to *slope* or *derivative* is calculated. Will build a little clssifier too.
+2. **Makemore**: The first version of our GPT. But not the GPT exactly because doesn't use the transformer. But this Makemore is the term used to name the model. The model is capable of generating **human names**. We will start with the simple bigram model, no ML/DL done yet, just you know, the first stepping stone.
+3. **Makemore with NN**: Here we will prove how the model can learn the relationship of the bigram model *(manual model)* built in the previous lecture.
+4. **Improve on NN**: This is the core. Here we will see the **scruitinizers**. How to diognize the model, what went wrong, batchnorm and other exciting stuff when the model isn't learning or... learning wrong.
+5. **Backprop Ninja**: This will boost up your backpropogation confidence like a hell. We will backpropogate through each layer, manually, spelled out, visuallized, codized.
+6. **WaveNet**: A new architecture to train the model.
+7. **GPT**: *(underdev)*
+
 ### 🦘 It's not ended; yet.
 Andrej's last lecture is on GPT, but there is a lot to explore. So `to be continued...`
