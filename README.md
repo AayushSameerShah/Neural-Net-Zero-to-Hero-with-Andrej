@@ -19,6 +19,9 @@ The Karpathy's series is fantastic, but I love things to be ***spelled out*** ev
 
 **This notebook course** implements all code and math understanding buildup with **informal explanation** that we understand; the simplest language possible, *you know the bro's language, yo!?* 😆 and also we will keep building one step at a time 🧗
 
+# 🖼 Vizzes, a lot of vizzes
+![vizzes_are_all_you_need](https://github.com/AayushSameerShah/Neural-Net-Zero-to-Hero-with-Andrej/assets/83115948/744e7674-9f5f-45a9-a251-8880772ce767)
+
 # 🤓 How to read it?
 I would encourage you to use this course as material for **practising** your understanding and a place to **refer back** to some specifics in the future but use [Andrej's series](https://karpathy.ai/zero-to-hero.html) as a main guide.
 
@@ -38,7 +41,7 @@ Start with the very first lecture `Micrograd`.
 4. **Improve on NN**: This is the core. Here we will see the **scrutinizers**. How to diagnose the model, what went wrong, batchnorm and other exciting stuff when the model isn't learning or... learning wrong.
 5. **Backprop Ninja**: This will boost up your backpropagation confidence like hell. We will backpropagate through each layer, manually, spelled out, visualized, codized.
 6. **WaveNet**: A new architecture to train the model.
-7. **GPT**: *(underdev)*
+7. **GPT**: Truely spelled out GPT. From the embeddings, to masked-multi-headed-self-attention. **Visualized. Demystified.** We will end up creating the GPT which actually completes the text together!
 
 ### 🦘 It's not ended; yet.
 Andrej's last lecture is on GPT, but there is a lot to explore. So `to be continued...`
