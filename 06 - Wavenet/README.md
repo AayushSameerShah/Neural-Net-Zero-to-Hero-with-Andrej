@@ -4,9 +4,9 @@ Apart from our *regular* MLP architecture, we will see how a new autoregressive 
 
 ## 📔 In this section:
 
-🏛️ Will understand a new architecture of the model and how it differs.
-📥 How we will **create** the dataset, because it requires us to provide input in a special way.
-🗳 Here, the **shapes** will matter the most, and they will feel like a breeze.
+🏛️ Will understand a new architecture of the model and how it differs.<br>
+📥 How we will **create** the dataset, because it requires us to provide input in a special way.<br>
+🗳 Here, the **shapes** will matter the most, and they will feel like a breeze.<br>
 🔢 We will learn how to create the **sequential** container by hand.
 
 ## 🎁 By now...
