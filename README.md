@@ -46,3 +46,9 @@ Start with the very first lecture `Micrograd`.
 ### 🦘 It's not ended; yet.
 Andrej's last lecture is on GPT, but there is a lot to explore. So `to be continued...`
 
+---
+
+### 📰 As seen on
+
+[How Open Ai’s Andrej Karpathy Made One of the Best Tutorials in Deep Learning](https://medium.com/@0ssamaak0/how-open-ais-andrej-karpathy-made-one-of-the-best-tutorials-in-deep-learning-e6b6445a2d05) by - **Usama Ahmed**: He does a phenomenal job of reviewing Andrej's entire course, module by module. Must check out!
+
